@@ -150,6 +150,17 @@ special_mode_mask values:
       <A3Preview>lavender_ov13855_sunny_india_ii_default_preview_bu64297</A3Preview>
       <A3Video>lavender_ov13855_sunny_india_ii_default_video_bu64297</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="MFNR_MODE">
+      <ISPPreview>lavender_ov13855_sunny_india_ii_preview</ISPPreview>
+      <ISPSnapshot>lavender_ov13855_sunny_india_ii_snapshot</ISPSnapshot>
+      <ISPVideo>lavender_ov13855_sunny_india_ii_default_video</ISPVideo>
+      <CPPPreview>lavender_ov13855_sunny_india_ii_cpp_preview_video</CPPPreview>
+      <CPPSnapshot>lavender_ov13855_sunny_india_ii_cpp_snapshot_mfnr</CPPSnapshot>
+      <CPPVideo>lavender_ov13855_sunny_india_ii_cpp_video</CPPVideo>
+      <CPPLiveshot>lavender_ov13855_sunny_india_ii_cpp_liveshot</CPPLiveshot>
+      <A3Preview>lavender_ov13855_sunny_india_ii_default_preview_bu64297</A3Preview>
+      <A3Video>lavender_ov13855_sunny_india_ii_default_video_bu64297</A3Video>
+    </ChromatixName>
 	<ChromatixName sensor_resolution_index="1" special_mode_mask="WEIXIN">
       <ISPPreview>lavender_ov13855_sunny_india_ii_video_weixin_res1</ISPPreview>
       <ISPSnapshot>lavender_ov13855_sunny_india_ii_video_weixin_res1</ISPSnapshot>

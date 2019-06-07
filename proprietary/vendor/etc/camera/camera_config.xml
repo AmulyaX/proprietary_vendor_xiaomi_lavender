@@ -142,8 +142,8 @@ LensInfo : Information of the lens present in the module.
     <ActuatorName>lavender_s5kgm1_ofilm_i_dw9800</ActuatorName>
     <EepromName>lavender_s5kgm1sp_ofilm_i</EepromName>
     <FlashName>pmic</FlashName>
-    <ChromatixName>lavender_s5kgm1_ofilm_i_chromatix</ChromatixName>
 	<ChromatixName_india>lavender_s5kgm1_ofilm_india_i_chromatix</ChromatixName_india>
+    <ChromatixName>lavender_s5kgm1_ofilm_i_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
     <MountAngle>90</MountAngle>
@@ -168,8 +168,8 @@ LensInfo : Information of the lens present in the module.
     <ActuatorName>lavender_s5kgm1_sunny_ii_dw9800</ActuatorName>
     <EepromName>lavender_s5kgm1sp_sunny_ii</EepromName>
     <FlashName>pmic</FlashName>
-    <ChromatixName>lavender_s5kgm1_sunny_ii_chromatix</ChromatixName>
 	<ChromatixName_india>lavender_s5kgm1_sunny_india_ii_chromatix</ChromatixName_india>
+    <ChromatixName>lavender_s5kgm1_sunny_ii_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
     <MountAngle>90</MountAngle>

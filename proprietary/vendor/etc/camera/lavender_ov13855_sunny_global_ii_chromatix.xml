@@ -150,7 +150,18 @@ special_mode_mask values:
       <A3Preview>lavender_ov13855_sunny_global_ii_default_preview_bu64297</A3Preview>
       <A3Video>lavender_ov13855_sunny_global_ii_default_video_bu64297</A3Video>
     </ChromatixName>
-	  <ChromatixName sensor_resolution_index="1" special_mode_mask="DOUYIN">
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="MFNR_MODE">
+      <ISPPreview>lavender_ov13855_sunny_global_ii_preview</ISPPreview>
+      <ISPSnapshot>lavender_ov13855_sunny_global_ii_snapshot</ISPSnapshot>
+      <ISPVideo>lavender_ov13855_sunny_global_ii_default_video</ISPVideo>
+      <CPPPreview>lavender_ov13855_sunny_global_ii_cpp_preview_video</CPPPreview>
+      <CPPSnapshot>lavender_ov13855_sunny_global_ii_cpp_snapshot_mfnr</CPPSnapshot>
+      <CPPVideo>lavender_ov13855_sunny_global_ii_cpp_video</CPPVideo>
+      <CPPLiveshot>lavender_ov13855_sunny_global_ii_cpp_liveshot</CPPLiveshot>
+      <A3Preview>lavender_ov13855_sunny_global_ii_default_preview_bu64297</A3Preview>
+      <A3Video>lavender_ov13855_sunny_global_ii_default_video_bu64297</A3Video>
+    </ChromatixName>
+	<ChromatixName sensor_resolution_index="1" special_mode_mask="DOUYIN">
       <ISPPreview>lavender_ov13855_sunny_global_ii_preview</ISPPreview>
       <ISPSnapshot>lavender_ov13855_sunny_global_ii_snapshot</ISPSnapshot>
       <ISPVideo>lavender_ov13855_sunny_global_ii_default_video</ISPVideo>
