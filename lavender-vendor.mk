@@ -1751,5 +1751,4 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     QFingerprintService \
     TimeService \
-    WfdCommon \
-    chargeonlymode
+    WfdCommon
