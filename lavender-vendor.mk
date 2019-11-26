@@ -105,8 +105,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lavender/proprietary/lib64/lib-imsvt.so:system/lib64/lib-imsvt.so \
     vendor/xiaomi/lavender/proprietary/lib64/lib-imsvtextutils.so:system/lib64/lib-imsvtextutils.so \
     vendor/xiaomi/lavender/proprietary/lib64/lib-imsvtutils.so:system/lib64/lib-imsvtutils.so \
-    vendor/xiaomi/lavender/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
-    vendor/xiaomi/lavender/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
+    vendor/xiaomi/lavender/proprietary/product/lib64/libaptXHD_encoder.so:system/product/lib64/libaptXHD_encoder.so \
+    vendor/xiaomi/lavender/proprietary/product/lib64/libaptX_encoder.so:system/product/lib64/libaptX_encoder.so \
     vendor/xiaomi/lavender/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
     vendor/xiaomi/lavender/proprietary/lib64/libfm-hci.so:system/lib64/libfm-hci.so \
     vendor/xiaomi/lavender/proprietary/lib64/libimscamera_jni.so:system/lib64/libimscamera_jni.so \
