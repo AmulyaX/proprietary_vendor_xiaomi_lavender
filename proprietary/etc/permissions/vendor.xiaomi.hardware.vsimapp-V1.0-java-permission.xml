@@ -1,0 +1,4 @@
+<permissions>
+    <library name="vendor.xiaomi.hardware.vsimapp-V1.0-java"
+            file="/system/framework/vendor.xiaomi.hardware.vsimapp-V1.0-java.jar" />
+</permissions>
