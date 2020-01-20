@@ -95,6 +95,17 @@ special_mode_mask values:
       <A3Preview>lavender_s5kgm1_ofilm_i_zsl_preview_3a</A3Preview>
       <A3Video>lavender_s5kgm1_ofilm_i_zsl_video_3a</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="CTSVERIFY">
+      <ISPPreview>lavender_s5kgm1_ofilm_i_snapshot</ISPPreview>
+      <ISPSnapshot>lavender_s5kgm1_ofilm_i_snapshot</ISPSnapshot>
+      <ISPVideo>lavender_s5kgm1_ofilm_i_video</ISPVideo>
+      <CPPPreview>lavender_s5kgm1_ofilm_i_cpp_preview</CPPPreview>
+      <CPPSnapshot>lavender_s5kgm1_ofilm_i_cpp_snapshot</CPPSnapshot>
+      <CPPVideo>lavender_s5kgm1_ofilm_i_cpp_video</CPPVideo>
+      <CPPLiveshot>lavender_s5kgm1_ofilm_i_cpp_liveshot</CPPLiveshot>
+      <A3Preview>lavender_s5kgm1_ofilm_i_zsl_preview_3a_its</A3Preview>
+      <A3Video>lavender_s5kgm1_ofilm_i_zsl_video_3a</A3Video>
+    </ChromatixName>
     <ChromatixName sensor_resolution_index="0" special_mode_mask="HHT MODE">
       <ISPPreview>lavender_s5kgm1_ofilm_i_snapshot</ISPPreview>
       <ISPSnapshot>lavender_s5kgm1_ofilm_i_snapshot</ISPSnapshot>

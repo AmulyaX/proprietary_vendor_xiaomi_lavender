@@ -95,6 +95,17 @@ special_mode_mask values:
       <A3Preview>lavender_s5kgm1_sunny_ii_zsl_preview_3a</A3Preview>
       <A3Video>lavender_s5kgm1_sunny_ii_zsl_video_3a</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="CTSVERIFY">
+      <ISPPreview>lavender_s5kgm1_sunny_ii_snapshot_its</ISPPreview>
+      <ISPSnapshot>lavender_s5kgm1_sunny_ii_snapshot_its</ISPSnapshot>
+      <ISPVideo>lavender_s5kgm1_sunny_ii_video</ISPVideo>
+      <CPPPreview>lavender_s5kgm1_sunny_ii_cpp_preview</CPPPreview>
+      <CPPSnapshot>lavender_s5kgm1_sunny_ii_cpp_snapshot</CPPSnapshot>
+      <CPPVideo>lavender_s5kgm1_sunny_ii_cpp_video</CPPVideo>
+      <CPPLiveshot>lavender_s5kgm1_sunny_ii_cpp_liveshot</CPPLiveshot>
+      <A3Preview>lavender_s5kgm1_sunny_ii_zsl_preview_3a_its</A3Preview>
+      <A3Video>lavender_s5kgm1_sunny_ii_zsl_video_3a</A3Video>
+    </ChromatixName>
     <ChromatixName sensor_resolution_index="0" special_mode_mask="HHT MODE">
       <ISPPreview>lavender_s5kgm1_sunny_ii_snapshot</ISPPreview>
       <ISPSnapshot>lavender_s5kgm1_sunny_ii_snapshot</ISPSnapshot>
@@ -257,7 +268,7 @@ special_mode_mask values:
       <CPPSnapshot>lavender_s5kgm1_sunny_ii_cpp_snapshot</CPPSnapshot>
       <CPPVideo>lavender_s5kgm1_sunny_ii_cpp_video</CPPVideo>
       <CPPLiveshot>lavender_s5kgm1_sunny_ii_cpp_liveshot</CPPLiveshot>
-      <A3Preview>lavender_s5kgm1_sunny_ii_default_preview_3a</A3Preview>
+      <A3Preview>lavender_s5kgm1_sunny_ii_default_preview_3a_its</A3Preview>
       <A3Video>lavender_s5kgm1_sunny_ii_default_video_3a</A3Video>
       </ChromatixName>
     <ChromatixName sensor_resolution_index="3" special_mode_mask="0">
